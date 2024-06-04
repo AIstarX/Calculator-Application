@@ -100,6 +100,5 @@ class CalculatorApp {
         }
 
         scanner.close();
-        System.out.println("Goodbye!");
     }
 }
